@@ -34,6 +34,9 @@ Type: `string`
 
 The ASCII character you want to convert to decimal.
 
+## Related
+
+- [ascii-hex](https://github.com/radiovisual/ascii-hex) Get the hexadecimal value of an ASCII character
 
 ## License
 
